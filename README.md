@@ -1,23 +1,14 @@
 # \# Excel Sales Analytics Dashboard
-
-# 
-
 # A collection of Excel-based sales analytics dashboards built as part of a self-learning and practice project.
-
-# 
-
+#
 # \## Dashboard 1: Excel Sales Dashboard
 
 # 
 
 # \*\*File:\*\* `Excel\_Dashboard\_Final.xlsx`
-
-# 
-
 # A basic Excel dashboard created to explore sales data and practice dashboard design.
 
 # 
-
 # \*\*Dataset:\*\* 1,000+ rows of sales data.
 
 # 
@@ -37,10 +28,7 @@
 # 
 
 # \## Dashboard 2: Car Sales Analytics Dashboard
-
-# 
-
-# \*\*File:\*\* `Car\_Sales\_Dashboard.xlsx`
+\*\*File:\*\* `Car\_Sales\_Dashboard.xlsx`
 
 # 
 
